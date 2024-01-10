@@ -3,6 +3,6 @@ My name is **Geeth Sowri**. Currently, I am pursuing a Bachelor's degree in **Co
 Mail/nainalageethsowri@gmail.com <br>
 LinkedIn/NainalaGeethSowri <br>
 Instagram/geethsowri <br>
-X/Ngeethsowri <br>
+X/Ngeethsowri
 <br> <br>
 Looking forward.
