@@ -1,6 +1,7 @@
 # Hey, I'm Geeth Sowri
 
 ### I'm interested in _Web Development, Designing, AI and Space._
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 ### About
 > I'm currently learning `Reactjs`<br>
