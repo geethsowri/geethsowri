@@ -6,7 +6,7 @@
 ### About
 > I'm currently learning `Reactjs`<br>
 > I’m looking to collaborate on `Design and Development`<br>
-> How to reach me : [t.me/geethsowri](https://t.me/geethsowri).
+> How to reach me : [telegram](https://t.me/geethsowri) or [mail](nainalageethsowri@gmail.com).
 ### Tech
 > Languages  `C++ / Java / Python` <br>
 > Web       `HTML / CSS / JAVASCRIPT`
