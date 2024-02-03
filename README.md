@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethsowri&label=Profile%20views&color=02559e&style=flat" alt="geethsowri" /> </p>
 
 ### About
-> I'm currently learning `Reactjs`<br>
-> I’m looking to collaborate on `Design and Development`<br>
+> I'm currently learning **`Reactjs`**<br>
+> I’m looking to collaborate on **`Design and Development`**<br>
 > How to reach me : [telegram](https://t.me/geethsowri) or [mail](nainalageethsowri@gmail.com).
 ### Tech
 > Languages  `C++ / Java / Python` <br>
