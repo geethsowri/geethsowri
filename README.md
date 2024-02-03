@@ -11,7 +11,5 @@
 > Languages  `C++ / Java / Python` <br>
 > Web       `HTML / CSS / JAVASCRIPT`
 ### Socials 
-> [LinkedIn](https://www.linkedin.com/in/nainala-geeth-sowri-76975b247/).
-
-
+> [LinkedIn](https://www.linkedin.com/in/nainala-geeth-sowri-76975b247/) [X](https://x.com/geethsowrin?t=_PXXJh3eZjjEvNkIatGa5Q&s=35) [Instagram](https://www.instagram.com/geethsowri/)
 
