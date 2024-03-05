@@ -7,7 +7,7 @@
 Pursuing a Bachelors degree in **`Computer Science and Engineering`** <br>
 I'm currently learning **`Reactjs`**<br>
 I’m looking to collaborate on **`Design and Development`**<br>
-Get in Touch: [Telegram](https://t.me/geethsowri) or [Mail](mailto:nainalageethsowri@gmail.com).
+Get in Touch : [Telegram](https://t.me/geethsowri) or [Mail](mailto:nainalageethsowri@gmail.com).
 
 ### Tech
 Languages  **`C++ / Java / Python`** <br>
