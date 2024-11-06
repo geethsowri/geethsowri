@@ -2,10 +2,8 @@
 cs undergrad '26 <br>
 contact -> [mail](mailto:nainalageethsowri@gmail.com)
 
-### Tech
-![Figma](https://img.shields.io/badge/Figma-20232a.svg?style=for-the-badge&logo=Figma&logoColor=white) <br>
-![C++](https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=C++&logoColor=white) ![Python](https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=Python&logoColor=white) <br>
-![HTML5](https://img.shields.io/badge/HTML5-20232a.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+- ⚙️ tech :&nbsp; `c++` `python`  &nbsp;&nbsp;•&nbsp;&nbsp;  `html` `javascript` `tailwind` `reactjs` &nbsp;&nbsp;•&nbsp;&nbsp; `figma`
+- 👨🏻‍💻 profiles :&nbsp; [`linkedin`](https://www.linkedin.com/in/geethsowri/) &nbsp;&nbsp;•&nbsp;&nbsp; [`github`](x.com/ngeethsowri)
 
 | **STATS** | **STREAK** |
 | :------: | :------: |
