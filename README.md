@@ -1,6 +1,6 @@
 ### Hey, I'm Sowri
 CS UnderGrad '26 <br>
-Get in Touch [Mail](mailto:nainalageethsowri@gmail.com).
+Get in Touch [nainalageethsowri@gmail.com](mailto:nainalageethsowri@gmail.com).
 
 ### Tech
 ![Figma](https://img.shields.io/badge/Figma-20232a.svg?style=for-the-badge&logo=Figma&logoColor=white) <br>
