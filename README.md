@@ -1,6 +1,6 @@
 ### Hey, I'm Geeth Sowri
 cs undergrad '26 <br>
-get in touch - [mail](mailto:nainalageethsowri@gmail.com)
+get in touch -> [mail](mailto:nainalageethsowri@gmail.com)
 
 ### Tech
 ![Figma](https://img.shields.io/badge/Figma-20232a.svg?style=for-the-badge&logo=Figma&logoColor=white) <br>
