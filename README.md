@@ -1,6 +1,4 @@
-# Hey, I'm Sowri
-`Full Stack [MERN] • Design enthusiast`
-### About
+### Hey, I'm Sowri
 CS UnderGrad '26 <br>
 Get in Touch [Mail](mailto:nainalageethsowri@gmail.com).
 
