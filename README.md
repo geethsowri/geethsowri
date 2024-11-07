@@ -1,6 +1,6 @@
 ### Hey, I'm Geeth Sowri
 cs undergrad '26 <br>
-mern stack development • design enthuasist
+mern stack dev • design enthuasist
 
 - ⚙️ **tech** &nbsp; `c++` `python`  &nbsp;&nbsp;•&nbsp;&nbsp;  `html` `javascript` `tailwind` `reactjs` &nbsp;&nbsp;•&nbsp;&nbsp; `figma`
 - 👨🏻‍💻 **socials** &nbsp; [linkedin ↗](https://www.linkedin.com/in/geethsowri/) &nbsp;&nbsp;•&nbsp;&nbsp; [x (twitter) ↗](x.com/ngeethsowri)
