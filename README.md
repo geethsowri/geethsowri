@@ -1,9 +1,10 @@
 ### Hey, I'm Geeth Sowri
 cs undergrad '26 <br>
-contact -> [mail](mailto:nainalageethsowri@gmail.com)
+mern stack development • design enthuasist
 
-- ⚙️ tech :&nbsp; `c++` `python`  &nbsp;&nbsp;•&nbsp;&nbsp;  `html` `javascript` `tailwind` `reactjs` &nbsp;&nbsp;•&nbsp;&nbsp; `figma`
-- 👨🏻‍💻 profiles :&nbsp; [`linkedin`](https://www.linkedin.com/in/geethsowri/) &nbsp;&nbsp;•&nbsp;&nbsp; [`github`](x.com/ngeethsowri)
+- ⚙️ **tech** &nbsp; `c++` `python`  &nbsp;&nbsp;•&nbsp;&nbsp;  `html` `javascript` `tailwind` `reactjs` &nbsp;&nbsp;•&nbsp;&nbsp; `figma`
+- 👨🏻‍💻 **socials** &nbsp; [linkedin ↗](https://www.linkedin.com/in/geethsowri/) &nbsp;&nbsp;•&nbsp;&nbsp; [github ↗](x.com/ngeethsowri)
+- 📩 **get in touch** &nbsp; [mail ↗](mailto:nainalageethsowri@gmail.com)
 
 | **STATS** | **STREAK** |
 | :------: | :------: |
@@ -15,8 +16,3 @@ contact -> [mail](mailto:nainalageethsowri@gmail.com)
 <a href="http://www.github.com/geethsowri">
   <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1.5" width="100%"/></p>
 </a>
-
-
-### Socials 
-<a href="https://x.com/geethsowri" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="Generic icon" width="30" style="margin-right: 200px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nainala-geeth-sowri-76975b247/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" alt="LinkedIn icon" width="30" style="margin-right: 15px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
