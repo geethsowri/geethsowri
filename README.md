@@ -2,7 +2,7 @@
 cs undergrad '26 <br>
 mern stack dev • design enthuasist
 
-- ⚙️ **tech** &nbsp; `c++` `python`  &nbsp;&nbsp;•&nbsp;&nbsp;  `html` `javascript` `tailwind` `reactjs` &nbsp;&nbsp;•&nbsp;&nbsp; `figma`
+- ⚙️ **tech** &nbsp; `c++` `python`  &nbsp;&nbsp;•&nbsp;&nbsp;  `javascript` `tailwind` `reactjs` &nbsp;&nbsp;•&nbsp;&nbsp; `figma`
 - 👨🏻‍💻 **socials** &nbsp; [linkedin ↗](https://www.linkedin.com/in/geethsowri/) &nbsp;&nbsp;•&nbsp;&nbsp; [x (twitter) ↗](https://x.com/ngeethsowri)
 - 📩 **get in touch** &nbsp; [mail ↗](mailto:nainalageethsowri@gmail.com)
 
