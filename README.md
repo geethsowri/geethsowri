@@ -1,4 +1,4 @@
-[geethsowri.dev ↗](geethsowri-dev.vercel.app) <br>
+[geethsowri.dev ↗](https://geethsowri-dev.vercel.app) <br>
 web dev &nbsp;•&nbsp; design <br> <br>
 `c++` `python` `javascript` <br>
 `tailwind` `reactjs`  `angularjs` <br> 
