@@ -1,1 +1,1 @@
-ts/js • dev @ [inncircles](inncircles.com) • [sowri.me](https://sowri.me)
+ts/js • dev @ inncircles • [sowri.me](https://sowri.me)
